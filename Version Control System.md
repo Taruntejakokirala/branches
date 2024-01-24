@@ -7,3 +7,4 @@
 ○ Provides a "remote" location for storing your git workspaces
 ○ Useful if you lose/break your computer, etc.
 Time1
+Today's Session is about Github Operations
